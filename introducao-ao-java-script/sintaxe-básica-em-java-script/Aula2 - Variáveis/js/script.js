@@ -1,7 +1,7 @@
 // tipos primitvos
 
 // boolean
-var vDuf = false;
+/*var vDuf = false;
 console.log(typeof(vDuf));
 
 // number
@@ -100,4 +100,4 @@ console.log(c);
 
 // não
 var nao = !false;
-console.log(nao);
+console.log(nao);*/
