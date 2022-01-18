@@ -58,20 +58,7 @@ function calculadora() {
                 }
             }
         } 
-        /* if (operacao == 1) {
-            soma();
-        } else if (operacao == 2) {
-            subtacao();
-        } else if (operacao == 3) {
-            multiplicacao();
-        } else if (operacao == 4) {
-            divisaoReal();
-        } else if (operacao == 5) {
-            divisaoInteira();
-        } else if (operacao == 6) {
-            potenciacao();
-        } */
-
+        
         switch (operacao) {
             case 1:
                 soma();
